@@ -1,2 +1,2 @@
-# -RPi-VL53L0X
+# RPi-VL53L0X
 RaspberryPi GPIO I2C VL53L0X Python
